@@ -1,0 +1,12 @@
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\bin\Debug\Server Controller.exe.config
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\bin\Debug\Server Controller.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\bin\Debug\Server Controller.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\bin\Debug\SimpleTcp.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\bin\Debug\SimpleTcp.xml
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server_Controller.Form1.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server_Controller.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server Controller.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server Controller.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server Controller.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server Controller.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\Server Controller\obj\Debug\Server Controller.pdb

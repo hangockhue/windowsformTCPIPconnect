@@ -1,0 +1,17 @@
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Client 1.csproj.ResolveComReference.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Controller.Client1.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Controller.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Client 1.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Client 1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Controller.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Controller.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\Controller.exe.config
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\Controller.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\Controller.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\SimpleTcp.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\SimpleTcp.xml
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Controller\obj\Debug\Client 1.csproj.CopyComplete

@@ -1,0 +1,19 @@
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\PlayVideo Form.exe.config
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\PlayVideo Form.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\PlayVideo Form.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo_Form.VideoForm.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo_Form.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.csproj.ResolveComReference.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\bin\Debug\SimpleTCP.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\PlayVideo Form\obj\Debug\PlayVideo Form.csprojAssemblyReference.cache

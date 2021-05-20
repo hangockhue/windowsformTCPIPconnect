@@ -1,0 +1,17 @@
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\Client 2.exe.config
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\Client 2.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\Client 2.pdb
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\SimpleTcp.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\SimpleTcp.xml
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client 2.csproj.ResolveComReference.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client_2.Client2.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client_2.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client 2.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client 2.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client 2.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client 2.exe
+C:\Users\Windows 10\source\repos\PlayVideo Form\Client 2\obj\Debug\Client 2.pdb
